@@ -1,0 +1,6 @@
+Libary/
+Logs/
+Debug/
+UserSettings/
+*.sln
+*.csproj
